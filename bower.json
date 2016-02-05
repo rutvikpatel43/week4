@@ -1,0 +1,24 @@
+{
+  "name": "week4",
+  "description": "",
+  "main": "",
+  "authors": [
+    "rutvikpatel43 <rutvikpatel43@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/rutvikpatel43/week4",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}
